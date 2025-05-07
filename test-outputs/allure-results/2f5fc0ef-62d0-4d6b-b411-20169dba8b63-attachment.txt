@@ -1,0 +1,329 @@
+[INFO] - [07-05-2025 19:50:46] [main] [org.testng.internal.Utils] - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+[INFO] - [07-05-2025 19:50:48] [main] [com.swaglabs.listeners.TestNGListeners] - Test execution started
+[INFO] - [07-05-2025 19:50:49] [main] [com.swaglabs.utils.PropertiesUtil] - Loading Properties File Data
+[INFO] - [07-05-2025 19:50:49] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  E:\ITI\Automation Framework\DemoTestAutomationProject\src\test\testng.xml
+
+[INFO] - [07-05-2025 19:51:13] [main] [com.swaglabs.drivers.DriverManager] - driver created on edge / local
+[INFO] - [07-05-2025 19:51:13] [main] [com.swaglabs.utils.PropertiesUtil] - Loading Properties File Data
+[INFO] - [07-05-2025 19:51:14] [main] [com.swaglabs.utils.BrowserActions] - navigated to url:  https://www.saucedemo.com/v1/index.html
+[INFO] - [07-05-2025 19:51:15] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: user-name
+[INFO] - [07-05-2025 19:51:15] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: user-name
+[INFO] - [07-05-2025 19:51:15] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: user-name
+[INFO] - [07-05-2025 19:51:15] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: user-name
+[INFO] - [07-05-2025 19:51:15] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:15] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.ElementActions] - data entered standard_user  in the field By.id: user-name
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: password
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: password
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: password
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: password
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.ElementActions] - data entered   in the field By.id: password
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: login-button
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: login-button
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: login-button
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: login-button
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:16] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:17] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.id: login-button
+[INFO] - [07-05-2025 19:51:17] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:17] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:17] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:17] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:17] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:17] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:17] [main] [com.swaglabs.utils.ElementActions] - getting text from  By.cssSelector: [data-test='error']  text: Epic sadface: Password is required
+[INFO] - [07-05-2025 19:51:17] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:19] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:51:19] [main] [com.swaglabs.listeners.TestNGListeners] - Test caseloginWithEmptyPasswordpassed
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.BrowserActions] - navigated to url:  https://www.saucedemo.com/v1/index.html
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: user-name
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: user-name
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: user-name
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: user-name
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.ElementActions] - data entered   in the field By.id: user-name
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: password
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: password
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: password
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: password
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.ElementActions] - data entered secret_sauce  in the field By.id: password
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: login-button
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: login-button
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: login-button
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: login-button
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.id: login-button
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:20] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:21] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:21] [main] [com.swaglabs.utils.ElementActions] - getting text from  By.cssSelector: [data-test='error']  text: Epic sadface: Username is required
+[INFO] - [07-05-2025 19:51:21] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:22] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:51:22] [main] [com.swaglabs.listeners.TestNGListeners] - Test caseloginWithEmptyUsernamepassed
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.BrowserActions] - navigated to url:  https://www.saucedemo.com/v1/index.html
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: user-name
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: user-name
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: user-name
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: user-name
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - data entered standard_user  in the field By.id: user-name
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: password
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: password
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: password
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: password
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - data entered wrong_password  in the field By.id: password
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: login-button
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: login-button
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: login-button
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: login-button
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.id: login-button
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - getting text from  By.cssSelector: [data-test='error']  text: Epic sadface: Username and password do not match any user in this service
+[INFO] - [07-05-2025 19:51:23] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:24] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:51:24] [main] [com.swaglabs.listeners.TestNGListeners] - Test caseloginWithInvalidPasswordpassed
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.BrowserActions] - navigated to url:  https://www.saucedemo.com/v1/index.html
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: user-name
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: user-name
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: user-name
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: user-name
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - data entered invalid_user  in the field By.id: user-name
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: password
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: password
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: password
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: password
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - data entered secret_sauce  in the field By.id: password
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: login-button
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: login-button
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: login-button
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: login-button
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.id: login-button
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - getting text from  By.cssSelector: [data-test='error']  text: Epic sadface: Username and password do not match any user in this service
+[INFO] - [07-05-2025 19:51:33] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:34] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:51:34] [main] [com.swaglabs.listeners.TestNGListeners] - Test caseloginWithInvalidUsernamepassed
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.BrowserActions] - navigated to url:  https://www.saucedemo.com/v1/index.html
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: user-name
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: user-name
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: user-name
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: user-name
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - data entered locked_out_user  in the field By.id: user-name
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: password
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: password
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: password
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: password
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - data entered secret_sauce  in the field By.id: password
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: login-button
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: login-button
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: login-button
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: login-button
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.id: login-button
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - getting text from  By.cssSelector: [data-test='error']  text: Epic sadface: Sorry, this user has been locked out.
+[INFO] - [07-05-2025 19:51:35] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: [data-test='error']
+[INFO] - [07-05-2025 19:51:36] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:51:36] [main] [com.swaglabs.listeners.TestNGListeners] - Test caseloginWithLockedOutUserpassed
+[INFO] - [07-05-2025 19:51:38] [main] [com.swaglabs.utils.BrowserActions] - navigated to url:  https://www.saucedemo.com/v1/index.html
+[INFO] - [07-05-2025 19:51:38] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: user-name
+[INFO] - [07-05-2025 19:51:38] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: user-name
+[INFO] - [07-05-2025 19:51:38] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: user-name
+[INFO] - [07-05-2025 19:51:38] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: user-name
+[INFO] - [07-05-2025 19:51:38] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: user-name
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.ElementActions] - data entered standard_user  in the field By.id: user-name
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: password
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: password
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: password
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: password
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: password
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.ElementActions] - data entered secret_sauce  in the field By.id: password
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: login-button
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: login-button
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: login-button
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: login-button
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:39] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: login-button
+[INFO] - [07-05-2025 19:51:40] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.id: login-button
+[INFO] - [07-05-2025 19:51:40] [main] [com.swaglabs.utils.BrowserActions] - currnet url: https://www.saucedemo.com/v1/inventory.html
+[INFO] - [07-05-2025 19:51:40] [main] [com.swaglabs.utils.BrowserActions] - page title:  Swag Labs
+[INFO] - [07-05-2025 19:51:43] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:51:43] [main] [com.swaglabs.listeners.TestNGListeners] - Test casesuccessfullLoginpassed
+[INFO] - [07-05-2025 19:51:44] [main] [com.swaglabs.utils.PropertiesUtil] - Loading Properties File Data
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.pages.ProductsPage] - adding Sauce Labs Backpack to the cart
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.Waits] - waiting for element to be present [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.ElementActions] - finding element [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.ElementActions] - finding element [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.ElementActions] - clicked on element [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.pages.ProductsPage] - assert adding Sauce Labs Backpack to the cart
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.Waits] - waiting for element to be present [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.ElementActions] - finding element [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.ElementActions] - finding element [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.ElementActions] - getting text from  [unknown locator]  text: REMOVE
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.ElementActions] - finding element [unknown locator]
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.pages.ProductsPage] - Sauce Labs Backpack was added to the cart successfully!
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:51:45] [main] [com.swaglabs.listeners.TestNGListeners] - Test caseaddProductToCartpassed
+[INFO] - [07-05-2025 19:51:46] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: svg.svg-inline--fa.fa-shopping-cart.fa-w-18.fa-3x
+[INFO] - [07-05-2025 19:51:46] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: svg.svg-inline--fa.fa-shopping-cart.fa-w-18.fa-3x
+[INFO] - [07-05-2025 19:51:46] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: svg.svg-inline--fa.fa-shopping-cart.fa-w-18.fa-3x
+[INFO] - [07-05-2025 19:51:47] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: svg.svg-inline--fa.fa-shopping-cart.fa-w-18.fa-3x
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: svg.svg-inline--fa.fa-shopping-cart.fa-w-18.fa-3x
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: svg.svg-inline--fa.fa-shopping-cart.fa-w-18.fa-3x
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.cssSelector: svg.svg-inline--fa.fa-shopping-cart.fa-w-18.fa-3x
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: .inventory_item_name
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: .inventory_item_name
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: .inventory_item_name
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: .inventory_item_name
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: .inventory_item_name
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: .inventory_item_name
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - getting text from  By.cssSelector: .inventory_item_name  text: Sauce Labs Backpack
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: .inventory_item_name
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: .inventory_item_price
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: .inventory_item_price
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: .inventory_item_price
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: .inventory_item_price
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: .inventory_item_price
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: .inventory_item_price
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - getting text from  By.cssSelector: .inventory_item_price  text: 29.99
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: .inventory_item_price
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: a.btn_action.checkout_button
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: a.btn_action.checkout_button
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: a.btn_action.checkout_button
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: a.btn_action.checkout_button
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: a.btn_action.checkout_button
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: a.btn_action.checkout_button
+[INFO] - [07-05-2025 19:51:55] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.cssSelector: a.btn_action.checkout_button
+[INFO] - [07-05-2025 19:51:56] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:51:56] [main] [com.swaglabs.listeners.TestNGListeners] - Test casecheckoutProductpassed
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.PropertiesUtil] - Loading Properties File Data
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: first-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: first-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: first-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: first-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: first-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: first-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.ElementActions] - data entered ALi  in the field By.id: first-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: last-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: last-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: last-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: last-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: last-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: last-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.ElementActions] - data entered Mohamed  in the field By.id: last-name
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: postal-code
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: postal-code
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: postal-code
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: postal-code
+[INFO] - [07-05-2025 19:51:57] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: postal-code
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: postal-code
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - data entered 11111  in the field By.id: postal-code
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: first-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: first-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: first-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: first-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: first-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: first-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - getting value from  By.id: first-name  text: ALi
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: first-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: last-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: last-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: last-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: last-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: last-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: last-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - getting value from  By.id: last-name  text: Mohamed
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: last-name
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: postal-code
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: postal-code
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: postal-code
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: postal-code
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: postal-code
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: postal-code
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - getting value from  By.id: postal-code  text: 11111
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: postal-code
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: input.btn_primary.cart_button
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: input.btn_primary.cart_button
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: input.btn_primary.cart_button
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: input.btn_primary.cart_button
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: input.btn_primary.cart_button
+[INFO] - [07-05-2025 19:51:58] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: input.btn_primary.cart_button
+[INFO] - [07-05-2025 19:51:59] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.cssSelector: input.btn_primary.cart_button
+[INFO] - [07-05-2025 19:52:00] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:52:00] [main] [com.swaglabs.listeners.TestNGListeners] - Test casecheckoutDatapassed
+[INFO] - [07-05-2025 19:52:01] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: a.btn_action.cart_button
+[INFO] - [07-05-2025 19:52:01] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: a.btn_action.cart_button
+[INFO] - [07-05-2025 19:52:01] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: a.btn_action.cart_button
+[INFO] - [07-05-2025 19:52:01] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: a.btn_action.cart_button
+[INFO] - [07-05-2025 19:52:01] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: a.btn_action.cart_button
+[INFO] - [07-05-2025 19:52:01] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: a.btn_action.cart_button
+[INFO] - [07-05-2025 19:52:01] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.cssSelector: a.btn_action.cart_button
+[INFO] - [07-05-2025 19:52:02] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:52:02] [main] [com.swaglabs.listeners.TestNGListeners] - Test casefinishOrderpassed
+[INFO] - [07-05-2025 19:52:03] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.cssSelector: h2.complete-header
+[INFO] - [07-05-2025 19:52:03] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.cssSelector: h2.complete-header
+[INFO] - [07-05-2025 19:52:03] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.cssSelector: h2.complete-header
+[INFO] - [07-05-2025 19:52:03] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.cssSelector: h2.complete-header
+[INFO] - [07-05-2025 19:52:03] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: h2.complete-header
+[INFO] - [07-05-2025 19:52:03] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: h2.complete-header
+[INFO] - [07-05-2025 19:52:03] [main] [com.swaglabs.utils.ElementActions] - getting text from  By.cssSelector: h2.complete-header  text: THANK YOU FOR YOUR ORDER
+[INFO] - [07-05-2025 19:52:03] [main] [com.swaglabs.utils.ElementActions] - finding element By.cssSelector: h2.complete-header
+[INFO] - [07-05-2025 19:52:04] [main] [com.swaglabs.utils.AllureUtil] - Logs attached to the report
+[INFO] - [07-05-2025 19:52:04] [main] [com.swaglabs.listeners.TestNGListeners] - Test caseconfirmationMessagepassed
+[INFO] - [07-05-2025 19:52:05] [main] [com.swaglabs.utils.Waits] - waiting for element to be clickable By.id: logout_sidebar_link
+[INFO] - [07-05-2025 19:52:05] [main] [com.swaglabs.utils.Waits] - waiting for element to be visible By.id: logout_sidebar_link
+[INFO] - [07-05-2025 19:52:05] [main] [com.swaglabs.utils.Waits] - waiting for element to be present By.id: logout_sidebar_link
+[INFO] - [07-05-2025 19:52:05] [main] [com.swaglabs.utils.Scrolling] - scrolling to element:  By.id: logout_sidebar_link
+[INFO] - [07-05-2025 19:52:05] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: logout_sidebar_link
+[INFO] - [07-05-2025 19:52:05] [main] [com.swaglabs.utils.ElementActions] - finding element By.id: logout_sidebar_link
+[INFO] - [07-05-2025 19:52:05] [main] [com.swaglabs.utils.ElementActions] - clicked on element By.id: logout_sidebar_link
+[INFO] - [07-05-2025 19:52:05] [main] [com.swaglabs.utils.BrowserActions] - currnet url: https://www.saucedemo.com/v1/index.html
